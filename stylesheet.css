@@ -5,7 +5,7 @@ body {
 
 
 #Banner {
-    background: url(./Images/banner4.jpg);
+    background: url(https://github.com/olegje/Portfolio/blob/master/Images/Banner4.jpg?raw=true);
     background-size: cover;
     background-attachment: fixed; /* scroll? */ 
     height: 700px;
@@ -35,19 +35,7 @@ body {
     font-size: 1.8rem;
 }
 
-/*#project-row {
-    background: url(http://youthcymru.org.uk/wp-content/uploads/2016/06/CodeHeader-1920x1200.jpg);
-    background-size: cover;
-    background-attachment: fixed; /* scroll? 
-    background-repeat: no-repeat;
-    background-position: left 50% top 0%;
-    background-size: auto;
-    margin-bottom: 0px;
-    padding-bottom: 20px;
-}*/
-
  #about-me, #contact, #project-row {
-    background: url(https://0.s3.envato.com/files/197246765/Black%20Points%20And%20Poly%20Clean%20Background%20590x300.jpg);
     background: url(http://cdn.mos.cms.futurecdn.net/4f726a53c26fcb892ccf22c88fa3cac0.jpg);
     
     background-size: cover;
